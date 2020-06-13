@@ -56,6 +56,8 @@
 #include "server/listener_hooks.h"
 #include "server/ssl_context_manager.h"
 
+#include "extensions/network/vcl/vcl_interface.h"
+
 namespace Envoy {
 namespace Server {
 

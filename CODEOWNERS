@@ -164,3 +164,5 @@ extensions/filters/http/oauth2 @rgs1 @derekargueta @snowp
 /*/extensions/rate_limit_descriptors/expr @kyessenov @lizan
 # user space socket pair and event
 /*/extensions/io_socket/user_space @lambdai @antoniovicente
+# vcl
+extensions/network/vcl @florincoras @mattklein123
