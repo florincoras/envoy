@@ -76,6 +76,7 @@ CTX
 CVC
 CVE
 CX
+Comms
 Cxx
 CYGWIN
 DCP
@@ -364,6 +365,7 @@ UUID
 UUIDs
 VC
 VCHAR
+VCL
 VH
 VHDS
 VLOG
@@ -516,6 +518,7 @@ codecs
 codepath
 codings
 combinatorial
+comms
 comparator
 compat
 completable
@@ -616,6 +619,7 @@ encodings
 endian
 endianness
 endl
+endpt
 enqueue
 enqueued
 enqueues
@@ -1258,6 +1262,8 @@ viewable
 vip
 virtualhost
 virtualize
+vpp
+vppcom
 vptr
 wakeup
 wakeups

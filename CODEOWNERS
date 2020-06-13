@@ -193,6 +193,8 @@ extensions/filters/http/oauth2 @rgs1 @derekargueta @snowp
 /*/extensions/matching/input_matchers/ip @aguinet @snowp
 # Key Value store
 /*/extensions/key_value @alyssawilk @ryantheoptimist
+# vcl
+extensions/network/vcl @florincoras @mattklein123
 
 # Contrib
 /contrib/exe/ @mattklein123 @lizan
