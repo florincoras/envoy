@@ -177,8 +177,9 @@ envoy.base.runner==0.0.4 \
     #   envoy.distribution.release
     #   envoy.github.abstract
     #   envoy.gpg.sign
-envoy.base.utils==0.0.6 \
-    --hash=sha256:58ed057137ebe80d78db90997efc59822115ee616e435a9afc3d7a19069bb53c
+envoy.base.utils==0.0.10 \
+    --hash=sha256:a3e9fe045c2f117e4b5754c0f412a46ff1e058796e42aabda416f52029c7cd53 \
+    --hash=sha256:252f47a17c6346b2496c24c239e7ff7b1312a62f0605877c5315176d3387aa61
     # via
     #   envoy.distribution.distrotest
     #   envoy.github.release
